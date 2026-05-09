@@ -32,31 +32,17 @@ to manage and calculate hostel fees for students.
 - jQuery
 
 ## Project Structure
-WebApplication2/
-│
-├── WebApplication2.sln              ← Open this in Visual Studio to run the project
-│
-└── WebApplication2/                 ← Main project folder
-│
-├── WebForm1.aspx                ← Main UI page (frontend of hostel fees management)
-├── WebForm1.aspx.cs             ← Main logic (backend of hostel fees management — C# CRUD operations)
-├── WebForm1.aspx.designer.cs    ← Auto-generated UI connections
-│
-├── Web.config                   ← Database connection settings
-├── Default.aspx                 ← Home/landing page
-├── Site.Master                  ← Master layout/template
-├── Global.asax                  ← Application startup file
-│
-├── Account/                     ← Login & registration pages
-│   ├── Login.aspx               ← Login page
-│   ├── Register.aspx            ← Register page
-│   └── ChangePassword.aspx      ← Password change page
-│
-├── Styles/
-│   └── Site.css                 ← Stylesheet
-│
-└── Scripts/
-└── jquery-1.4.1.js          ← jQuery library
+
+| File/Folder | Description |
+|---|---|
+| `WebApplication2.sln` | Open this in Visual Studio to run the project |
+| `WebApplication2/WebForm1.aspx` | Main UI page — frontend of hostel fees management |
+| `WebApplication2/WebForm1.aspx.cs` | Main logic — C# backend, CRUD operations |
+| `WebApplication2/Web.config` | Database connection settings |
+| `WebApplication2/Default.aspx` | Home/landing page |
+| `WebApplication2/Site.Master` | Master layout/template |
+| `WebApplication2/Styles/Site.css` | Stylesheet |
+| `WebApplication2/Scripts/jquery-1.4.1.js` | jQuery library |
 
 ## Project Setup
 
