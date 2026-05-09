@@ -51,7 +51,6 @@ WebApplication2/
 │   ├── Login.aspx               ← Login page
 │   ├── Register.aspx            ← Register page
 │   └── ChangePassword.aspx      ← Password change page
-    These are all default files.
 │
 ├── Styles/
 │   └── Site.css                 ← Stylesheet
